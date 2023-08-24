@@ -1,6 +1,7 @@
 {
   "name": "fringe_project",
   "version": "0.1.0",
+  "homepage": "fringe_project/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
