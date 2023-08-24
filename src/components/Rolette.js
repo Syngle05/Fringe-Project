@@ -107,47 +107,47 @@ function Rolette() {
         <BsArrowLeftShort className=" text-5xl text-green-900 " />
       </div>
       <div className="absolute imgAnimation w-[70px] h-[70px] top-20 right-20">
-        <img src={img1} />
+        <img src={img1} alt="img1" />
       </div>
       <div className="absolute imgAnimation w-[70px] h-[70px] top-60 left-20">
-        <img src={img2} />
+        <img src={img2} alt="img2" />
       </div>
       <div className="absolute imgAnimation w-[70px] h-[70px] bottom-52 left-64">
-        <img src={img3} />
+        <img src={img3} alt="img3" />
       </div>
       <div className="absolute imgAnimation w-[100px] h-[100px] bottom-20 right-[25%]">
-        <img src={img4} />
+        <img src={img4} alt="img4" />
       </div>
       <div className="absolute imgAnimation w-[70px] h-[70px] top-10 left-72">
-        <img src={img5} />
+        <img src={img5} alt="img5" />
       </div>
 
       <div className="absolute imgAnimation w-[50px] h-[50px] bottom-40 left-20">
-        <img src={img7} />
+        <img src={img7} alt="img6" />
       </div>
       <div className="absolute imgAnimation w-[40px] h-[40px] bottom-[50%] left-[25%]">
-        <img src={img8} />
+        <img src={img8} alt="img7" />
       </div>
       <div className="absolute imgAnimation w-[60px] h-[60px] bottom-[40%] right-[10%] ">
-        <img src={img9} />
+        <img src={img9} alt="img8" />
       </div>
       <div className="absolute imgAnimation w-[125px] h-[125px] -bottom-4 left-[30%]">
-        <img src={img10} />
+        <img src={img10} alt="img9" />
       </div>
       <div className="absolute imgAnimation w-[125px] h-[125px] -bottom-5 right-20">
-        <img src={img11} />
+        <img src={img11} alt="img10" />
       </div>
       <div className="absolute imgAnimation w-[70px] h-[70px] top-1 left-[32%]">
-        <img src={img12} />
+        <img src={img12} alt="img11" />
       </div>
       <div className="absolute imgAnimation w-[70px] h-[70px] top-10 right-[25%]">
-        <img src={img13} />
+        <img src={img13} alt="img12" />
       </div>
       <div className="absolute imgAnimation w-[70px] h-[70px] bottom-[55%] right-[20%]">
-        <img src={img14} />
+        <img src={img14} alt="img12" />
       </div>
       <div className="absolute imgAnimation w-[70px] h-[70px] top-20 left-20">
-        <img src={img15} onLoad={handleImageLoad} />
+        <img src={img15} alt="img13" onLoad={handleImageLoad} />
       </div>
 
       <div className="phrase text-lg font-medium absolute right-2 bottom-2">
