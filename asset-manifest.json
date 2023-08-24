@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Fringe-Project/static/css/main.c15c6fd5.css",
-    "main.js": "/Fringe-Project/static/js/main.6d89ff8d.js",
+    "main.js": "/Fringe-Project/static/js/main.2f43d525.js",
     "static/media/fringe5.png": "/Fringe-Project/static/media/fringe5.605261c413eb4c49ed11.png",
     "static/media/dorama.png": "/Fringe-Project/static/media/dorama.12710b0b6a9cd45ce0fb.png",
     "static/media/fringe2.png": "/Fringe-Project/static/media/fringe2.a6964de9587a6c9fec88.png",
@@ -22,10 +22,10 @@
     "index.html": "/Fringe-Project/index.html",
     "static/media/loading.svg": "/Fringe-Project/static/media/loading.7875c67794ef19e03069fae9fb389c38.svg",
     "main.c15c6fd5.css.map": "/Fringe-Project/static/css/main.c15c6fd5.css.map",
-    "main.6d89ff8d.js.map": "/Fringe-Project/static/js/main.6d89ff8d.js.map"
+    "main.2f43d525.js.map": "/Fringe-Project/static/js/main.2f43d525.js.map"
   },
   "entrypoints": [
     "static/css/main.c15c6fd5.css",
-    "static/js/main.6d89ff8d.js"
+    "static/js/main.2f43d525.js"
   ]
 }
